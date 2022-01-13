@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ClubMembershipApplication.FieldValidators
+﻿namespace ClubMembershipApplication.FieldValidators
 {
-   public class FieldConstants
+    public class FieldConstants
     {
-        public enum UserRegistrationField
-        { 
+        public enum UserRegistrationField  //readable fields rather than ints in field array
+        {
             EmailAddress,
             FirstName,
             LastName,

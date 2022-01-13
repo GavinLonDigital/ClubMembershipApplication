@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using ClubMembershipApplication.FieldValidators;
+﻿using ClubMembershipApplication.FieldValidators;
+using System;
 
 
 namespace ClubMembershipApplication.Views
@@ -39,9 +37,9 @@ namespace ClubMembershipApplication.Views
                 Console.Clear();
                 Console.WriteLine("Goodbye");
                 Console.ReadKey();
-               
+
             }
-        
+
         }
 
         private void RunUserRegistrationView()

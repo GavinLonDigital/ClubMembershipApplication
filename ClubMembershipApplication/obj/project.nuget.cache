@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WWBrL2MOkI0QWG5HFT6ja3DCsYsukRuwE7ldkSJncVXEJ5fcP1/5BOju1uzAp4S+rtdRh8TnJHIogZRkUaeH3Q==",
+  "dgSpecHash": "lvPapvyrTkPn7xkxJejrIL82qNkCBfoEGEzCYehBsO7CFBUybYxhSosJaI4fDtFnkmYQ8oM2H2v8sK4xtgqJVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sjhou\\OneDrive - Acumatica\\Documents\\github\\ClubMembershipApplication\\ClubMembershipApplication\\ClubMembershipApplication.csproj",
   "expectedPackageFiles": [
@@ -37,13 +37,7 @@
     "C:\\Users\\sjhou\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\sjhou\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
     "C:\\Users\\sjhou\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\sjhou\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.0\\system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512",
-    "C:\\Users\\sjhou\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512",
-    "C:\\Users\\sjhou\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512",
-    "C:\\Users\\sjhou\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\sjhou\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\sjhou\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\sjhou\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\sjhou\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

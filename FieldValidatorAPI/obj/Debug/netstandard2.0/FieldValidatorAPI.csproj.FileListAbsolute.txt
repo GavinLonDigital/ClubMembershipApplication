@@ -1,0 +1,9 @@
+C:\Users\sjhou\OneDrive - Acumatica\Documents\github\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\netstandard2.0\FieldValidatorAPI.deps.json
+C:\Users\sjhou\OneDrive - Acumatica\Documents\github\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\netstandard2.0\FieldValidatorAPI.dll
+C:\Users\sjhou\OneDrive - Acumatica\Documents\github\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\netstandard2.0\FieldValidatorAPI.pdb
+C:\Users\sjhou\OneDrive - Acumatica\Documents\github\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjhou\OneDrive - Acumatica\Documents\github\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.AssemblyInfoInputs.cache
+C:\Users\sjhou\OneDrive - Acumatica\Documents\github\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.AssemblyInfo.cs
+C:\Users\sjhou\OneDrive - Acumatica\Documents\github\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\sjhou\OneDrive - Acumatica\Documents\github\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.dll
+C:\Users\sjhou\OneDrive - Acumatica\Documents\github\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\netstandard2.0\FieldValidatorAPI.pdb

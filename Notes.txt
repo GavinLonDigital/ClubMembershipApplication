@@ -1,0 +1,39 @@
+Resources:
+https://regexlib.com for regex definitions
+
+https://www.sqlite.org/download.html documentation but only need to add sqllite packages to project
+
+https://sqlitebrowser.org/dl/ for x64 sqlite browser
+
+
+=============================================================================================================================================
+
+CommonFieldValidatorFunctions.cs
+
+Delegate is a strongly typed function call as it points to a class method of the same signature.
+
+In CommonFieldValidatorFunctions.cs:
+	Deletgates are declared in the namespace
+	Private static properties created and assigned null on creation
+	Private Method declared with delegate return and parameters form ie signature
+	Public property created and assigned the private static property which has a delegate contructed with the private method
+
+
+	namespace....
+		delegate type T declaration return type name (parms [,...]);
+			class C...
+				private property  _p set to type T and initialized as null
+
+				private method xx in class C declared with appropriate return of delegate T
+
+				public property P of type T with getter assigning it the delegate type T constructed with method xx
+
+
+				delegate T => static C._p -> (static C.P -> static C.xx)
+
+CommonRegularExpressionsValidationPatterns.cs
+
+	used regexlib for sourcing these
+
+
+				

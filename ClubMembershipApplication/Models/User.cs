@@ -1,13 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Text;
+using System.ComponentModel.DataAnnotations.Schema; //req for attrib
 
 namespace ClubMembershipApplication.Models
 {
+
+    //create model -> create dB within VS
     public class User
     {
-       [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)] //code first
         public int Id { get; set; }
 
         public string EmailAddress { get; set; }

@@ -1,5 +1,5 @@
-﻿using System;
-using ClubMembershipApplication.Views;
+﻿using ClubMembershipApplication.Views;
+using System;
 namespace ClubMembershipApplication
 {
     class Program

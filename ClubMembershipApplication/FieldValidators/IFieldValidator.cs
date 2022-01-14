@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ClubMembershipApplication.FieldValidators
+﻿namespace ClubMembershipApplication.FieldValidators
 {
-    public delegate bool FieldValidatorDel(int fieldIndex, string fieldValue, string[] fieldArray, out string fieldInvalidMessage);
+    public delegate bool FieldValidatorDel(int fieldIndex, string fieldValue, string[] fieldArray, out string fieldInvalidMessage); //validate fields for any form
     public interface IFieldValidator
     {
         void InitialiseValidatorDelegates();

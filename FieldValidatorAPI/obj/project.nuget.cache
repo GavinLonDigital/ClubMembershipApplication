@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O258QFy/M8H8IQ4Mp8/Z99dJ+yZvgHQ3EnA6u/lr0/qFQH3S2rGNbOfLb6daTDedYUciHiasxn5qTxDw6XsM7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sjhou\\OneDrive - Acumatica\\Documents\\github\\ClubMembershipApplication\\FieldValidatorAPI\\FieldValidatorAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sjhou\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sjhou\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
